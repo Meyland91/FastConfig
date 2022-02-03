@@ -1,0 +1,1 @@
+choco install vscode wireshark gns3 namp putty discord androidstudio gimp git puppet tightvnc waterfox gnucash synergy -y
